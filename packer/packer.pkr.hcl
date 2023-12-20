@@ -32,7 +32,7 @@ variable "instance_type" {
   default = "t2.micro"
 }
 
-variable "ijenkins_build_number" {
+variable "jenkins_build_number" {
   type    = string
   default = ""
 }
