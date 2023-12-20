@@ -32,7 +32,7 @@ else if (env.BRANCH_NAME == "qa") {
     key = "my-laptop-key"
 }
 else {
-  error "Branch doesn not supported"
+  error "Branch does not supported"
 }
 
 
